@@ -5,7 +5,7 @@ void Fibonacci(unsigned long long n)
     unsigned long long primero = 0, segundo = 1, sig;
 
     printf("Serie de Fibonacci hasta el termino %llu:\n", n);
-    printf("%llu %llu ", primero, segundo); // Mostrar los primeros dos términos
+    printf("%llu %llu ", primero, segundo); // Mostrar los primeros dos tÃ©rminos
 
     for (unsigned long long i=3;i<=n;++i) 
 	{
